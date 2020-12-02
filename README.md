@@ -1,0 +1,3 @@
+# Classification of Hand Movements Using EEG Data
+
+In this project, I've developed a mathematical model for the classification of left and right hand movements using EEG data. We've applied traditional pre-processing steps on data (including notch filtering and extraction of different frequency bands). Various features such as signal power, Shannon entropy, and the correlation between different bands have then been extracted from the data and a variety of classification models including Support Vector Machines, Linear Discriminate Analysis, and Radom Decision Forrests have been applied to the extracted features.
